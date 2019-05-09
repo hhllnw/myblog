@@ -1,11 +1,11 @@
 title: hhllnw
 description: My Personal Blog
 author: hhllnw
-logo: /myblog/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/hhllnw
 about: Android developer
 
-baseurl: ""
+baseurl: "/myblog"
 url: ""
 
 allowsearch: true
